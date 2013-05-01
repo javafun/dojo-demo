@@ -17,6 +17,9 @@ C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.WebPages.Deployment.dll
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.WebPages.dll
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.WebPages.Razor.dll
 C:\Dev\research\dojo-demo\dojo-demo\bin\WebGrease.dll
+C:\Dev\research\dojo-demo\dojo-demo\obj\Debug\dojo-demo.csprojResolveAssemblyReference.cache
+C:\Dev\research\dojo-demo\dojo-demo\obj\Debug\dojo-demo.dll
+C:\Dev\research\dojo-demo\dojo-demo\obj\Debug\dojo-demo.pdb
 C:\Dev\research\dojo-demo\dojo-demo\bin\EntityFramework.xml
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Net.Http.xml
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Net.Http.Formatting.xml
@@ -28,6 +31,3 @@ C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.Razor.xml
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.WebPages.xml
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.WebPages.Deployment.xml
 C:\Dev\research\dojo-demo\dojo-demo\bin\System.Web.WebPages.Razor.xml
-C:\Dev\research\dojo-demo\dojo-demo\obj\Debug\dojo-demo.csprojResolveAssemblyReference.cache
-C:\Dev\research\dojo-demo\dojo-demo\obj\Debug\dojo-demo.dll
-C:\Dev\research\dojo-demo\dojo-demo\obj\Debug\dojo-demo.pdb
